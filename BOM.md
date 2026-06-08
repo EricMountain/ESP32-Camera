@@ -49,12 +49,11 @@ The XIAO ESP32S3 Sense is the cleanest choice here — camera, SD slot, and ultr
 
 | # | Part | Notes | Est. Price |
 |---|------|-------|-----------|
-| 8 | **IRLML6244 N-ch MOSFET** (×2) | Power-gate peripherals during deep sleep if needed | $1 |
-| 9 | **Schottky diode 1N5819** | Reverse polarity protection on battery input | $0.50 |
-| 10 | **Resistors assortment** (10kΩ, 100kΩ) | Pull-ups for SPI/I2C, voltage divider for battery level sensing | $1 |
-| 11 | **Capacitors** 100µF electrolytic + 100nF ceramic | Decoupling near power rails | $1 |
-| 12 | **JST 2.0 PH connectors** (×3) | Battery, solar, camera — keyed so no accidental reversal | $2 |
-| 13 | **22AWG silicone wire** (0.5m red/black) | Flexible, heat-resistant | $2 |
+| 8 | **Schottky diode 1N5819** | Reverse polarity protection on battery input | $0.50 |
+| 9 | **Resistors assortment** (10kΩ, 100kΩ) | Pull-ups for SPI/I2C, voltage divider for battery level sensing | $1 |
+| 10 | **Capacitors** 100µF electrolytic + 100nF ceramic | Decoupling near power rails | $1 |
+| 11 | **JST 2.0 PH connectors** (×3) | Battery, solar, camera — keyed so no accidental reversal | $2 |
+| 12 | **22AWG silicone wire** (0.5m red/black) | Flexible, heat-resistant | $2 |
 
 ---
 
@@ -62,10 +61,10 @@ The XIAO ESP32S3 Sense is the cleanest choice here — camera, SD slot, and ultr
 
 | # | Part | Notes | Est. Price |
 |---|------|-------|-----------|
-| 14 | **IP67 ABS waterproof enclosure** (~100×60×35mm) | Hammond 1551 series or generic equivalent | $10 |
-| 15 | **25mm clear acrylic disc** (3mm thick) | Camera window — glue inside with silicone sealant | $3 |
-| 16 | **PG7 cable gland** (×1) | Weatherproof wire entry for charging/programming port | $1.50 |
-| 17 | **M3 stainless standoffs + screws** | Mount PCB inside enclosure | $2 |
+| 13 | **IP67 ABS waterproof enclosure** (~100×60×35mm) | Hammond 1551 series or generic equivalent | $10 |
+| 14 | **25mm clear acrylic disc** (3mm thick) | Camera window — glue inside with silicone sealant | $3 |
+| 15 | **PG7 cable gland** (×1) | Weatherproof wire entry for charging/programming port | $1.50 |
+| 16 | **M3 stainless standoffs + screws** | Mount PCB inside enclosure | $2 |
 
 ---
 
@@ -73,8 +72,8 @@ The XIAO ESP32S3 Sense is the cleanest choice here — camera, SD slot, and ultr
 
 | # | Part | Notes | Est. Price |
 |---|------|-------|-----------|
-| 18 | **USB-C cable** | XIAO programs directly via USB-C | $0 (likely have one) |
-| 19 | **Small perfboard** (5×7cm) | Or order a custom PCB from JLCPCB once design is validated | $2 |
+| 17 | **USB-C cable** | XIAO programs directly via USB-C | $0 (likely have one) |
+| 18 | **Small perfboard** (5×7cm) | Or order a custom PCB from JLCPCB once design is validated | $2 |
 
 ---
 
@@ -82,8 +81,8 @@ The XIAO ESP32S3 Sense is the cleanest choice here — camera, SD slot, and ultr
 
 | Config | Approx. Total |
 |--------|--------------|
-| Base (WiFi only) | ~$65 |
-| With LoRa | ~$76 |
+| Base (WiFi only) | ~$64 |
+| With LoRa | ~$75 |
 
 ---
 
